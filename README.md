@@ -55,4 +55,32 @@ Here is how to use the program:-<br />
   than use it against aadish goel(My bot)<br />
   I have uploaded the same code there with this name.<br />
   
-Try it and Enjoy :)
+ # Upto Here it is in C
+ with the name of bot_tictactoe.c
+   ## File used on Hacker Earth
+ was with the name of bot_reversetictactoe.c<br />
+ with a slight modification of taking transverse of input matrix
+    
+ # Now Python 3 in Action
+ In application.py<br />
+ There is a interface in which You can play with that bot<br />
+ It uses the program exe file i.e bot_tictactoe.exe<br />
+    
+ # And For Running by One Click CMD bash
+ write this in notepad
+ 
+    echo off
+    color a 
+    cls
+    python application.py
+    pause
+    
+ and save as .bat file <br />
+ for eg. tictacAPP.bat <br />
+ So, next it will play just by a click <br />
+ ## Note:
+ If your computer gives python is not recognized as an internal or external command<br /> 
+ than put python in envirnoment variable of your computer<br />
+ by going in properties of MyComputer.<br />
+  
+### Try it and Enjoy :)
